@@ -1,11 +1,20 @@
 {
   "author": "Christopher Forti",
+  "description": "Practice with npm , node, and API's",
   "name": "fcc-learn-npm-package-json",
+  "license": "MIT",
+  "version": "1.2.0",
   "dependencies": {
     "express": "^4.14.0",
-    "expressjs": "^1.0.1"
+    "expressjs": "^1.0.1",
+    "@freecodecamp/example": "1.1.0"
   },
   "main": "server.js",
+  "keywords": [
+    "freecodecamp",
+    "node",
+    "npm"
+  ],
   "scripts": {
     "start": "node server.js"
   },
