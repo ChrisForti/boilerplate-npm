@@ -6,8 +6,7 @@
   "version": "1.2.0",
   "dependencies": {
     "express": "^4.14.0",
-    "expressjs": "^1.0.1",
-    "@freecodecamp/example": "1.2.13"
+    "expressjs": "^1.0.1"
   },
   "main": "server.js",
   "keywords": [
